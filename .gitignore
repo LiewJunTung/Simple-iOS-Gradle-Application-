@@ -6,6 +6,7 @@
 
 .settings
 *.framework
+lib
 
 ## Build generated
 build/
